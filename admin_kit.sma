@@ -1,4 +1,4 @@
-// by bariscode29
+// by bariscodefx
 #include <amxmodx>
 #include <amxmisc>
 #include <fun>
