@@ -5,8 +5,8 @@
 #include <cstrike>
 
 new PLUGIN[] = "Admin Kit"
-new AUTHOR[] = "bariscode29"
-new VERSION[] = "1.10"
+new AUTHOR[] = "bariscodefx"
+new VERSION[] = "1.0"
 
 public plugin_init()
 {
