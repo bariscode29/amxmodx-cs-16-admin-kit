@@ -11,7 +11,7 @@ new VERSION[] = "1.10"
 public plugin_init()
 {
   register_plugin(PLUGIN, VERSION, AUTHOR)
-  register_concmd("amx_adminkit", "kit")
+  register_concmd("amx_adminkit", "kit", ADMIN_SLAY)
 }
 
 public kit(id)
